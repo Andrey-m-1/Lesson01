@@ -13,7 +13,7 @@ public class Main {
     // 2 Метод Boolean IsNegativ
     public static boolean IsNegativ(int a2)
     {
-        if (a2<=0){
+        if (a2<0){
             return true;
         }
         return false;
